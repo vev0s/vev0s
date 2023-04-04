@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on
   - <a href="#">Something new !</a>
-- 🌱 I’m currently learning Pentesting and more and more Python
+- 🌱 I’m learning SSH and HTTP secure connections
 - 👯 I’m looking to collaborate on :
   - Any type of tools (mainly in Python)
-- 📫 How to reach me ? <strong><a href=mailto:vev0s.dev@gmail.com>vev0s.dev@gmail.com</a></strong>
+- 📫 If you'r looking to contact me : <strong><a href=mailto:vev0s.dev@gmail.com>vev0s.dev@gmail.com</a></strong>
 
 <div align="center">
   <a target="_blank" href="https://github.com/vev0s"><img src="https://img.shields.io/github/followers/vev0s?color=white&label=Follow me !&logo=github&style=flat-square"></a>
